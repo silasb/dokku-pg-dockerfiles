@@ -2,5 +2,5 @@ Dockerfiles
 -----------
 
 ```
-docker build -t dokku/postgresql github.com/Kloadut/dokku-pg-dockerfiles
+docker build -t dokku/postgresql github.com/silasb/dokku-pg-dockerfiles
 ```
